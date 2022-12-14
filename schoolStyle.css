@@ -1,0 +1,25 @@
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: chocolate;
+}
+
+p {
+    font-size: 28px;
+    color: brown;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 10;
+}
+
+a {
+    font-size: 28px;
+    color: brown;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 10;
+}
